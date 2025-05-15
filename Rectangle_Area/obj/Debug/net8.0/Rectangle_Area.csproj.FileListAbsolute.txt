@@ -1,0 +1,15 @@
+D:\GitHub Project\Csharp_beginner\Rectangle_Area\bin\Debug\net8.0\Rectangle_Area.exe
+D:\GitHub Project\Csharp_beginner\Rectangle_Area\bin\Debug\net8.0\Rectangle_Area.deps.json
+D:\GitHub Project\Csharp_beginner\Rectangle_Area\bin\Debug\net8.0\Rectangle_Area.runtimeconfig.json
+D:\GitHub Project\Csharp_beginner\Rectangle_Area\bin\Debug\net8.0\Rectangle_Area.dll
+D:\GitHub Project\Csharp_beginner\Rectangle_Area\bin\Debug\net8.0\Rectangle_Area.pdb
+D:\GitHub Project\Csharp_beginner\Rectangle_Area\obj\Debug\net8.0\Rectangle_Area.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Project\Csharp_beginner\Rectangle_Area\obj\Debug\net8.0\Rectangle_Area.AssemblyInfoInputs.cache
+D:\GitHub Project\Csharp_beginner\Rectangle_Area\obj\Debug\net8.0\Rectangle_Area.AssemblyInfo.cs
+D:\GitHub Project\Csharp_beginner\Rectangle_Area\obj\Debug\net8.0\Rectangle_Area.csproj.CoreCompileInputs.cache
+D:\GitHub Project\Csharp_beginner\Rectangle_Area\obj\Debug\net8.0\Rectangle_Area.sourcelink.json
+D:\GitHub Project\Csharp_beginner\Rectangle_Area\obj\Debug\net8.0\Rectangle_Area.dll
+D:\GitHub Project\Csharp_beginner\Rectangle_Area\obj\Debug\net8.0\refint\Rectangle_Area.dll
+D:\GitHub Project\Csharp_beginner\Rectangle_Area\obj\Debug\net8.0\Rectangle_Area.pdb
+D:\GitHub Project\Csharp_beginner\Rectangle_Area\obj\Debug\net8.0\Rectangle_Area.genruntimeconfig.cache
+D:\GitHub Project\Csharp_beginner\Rectangle_Area\obj\Debug\net8.0\ref\Rectangle_Area.dll
