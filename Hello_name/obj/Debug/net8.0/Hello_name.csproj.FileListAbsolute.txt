@@ -1,0 +1,15 @@
+D:\GitHub Project\Csharp_beginner\Hello_name\bin\Debug\net8.0\Hello_name.exe
+D:\GitHub Project\Csharp_beginner\Hello_name\bin\Debug\net8.0\Hello_name.deps.json
+D:\GitHub Project\Csharp_beginner\Hello_name\bin\Debug\net8.0\Hello_name.runtimeconfig.json
+D:\GitHub Project\Csharp_beginner\Hello_name\bin\Debug\net8.0\Hello_name.dll
+D:\GitHub Project\Csharp_beginner\Hello_name\bin\Debug\net8.0\Hello_name.pdb
+D:\GitHub Project\Csharp_beginner\Hello_name\obj\Debug\net8.0\Hello_name.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Project\Csharp_beginner\Hello_name\obj\Debug\net8.0\Hello_name.AssemblyInfoInputs.cache
+D:\GitHub Project\Csharp_beginner\Hello_name\obj\Debug\net8.0\Hello_name.AssemblyInfo.cs
+D:\GitHub Project\Csharp_beginner\Hello_name\obj\Debug\net8.0\Hello_name.csproj.CoreCompileInputs.cache
+D:\GitHub Project\Csharp_beginner\Hello_name\obj\Debug\net8.0\Hello_name.sourcelink.json
+D:\GitHub Project\Csharp_beginner\Hello_name\obj\Debug\net8.0\Hello_name.dll
+D:\GitHub Project\Csharp_beginner\Hello_name\obj\Debug\net8.0\refint\Hello_name.dll
+D:\GitHub Project\Csharp_beginner\Hello_name\obj\Debug\net8.0\Hello_name.pdb
+D:\GitHub Project\Csharp_beginner\Hello_name\obj\Debug\net8.0\Hello_name.genruntimeconfig.cache
+D:\GitHub Project\Csharp_beginner\Hello_name\obj\Debug\net8.0\ref\Hello_name.dll
